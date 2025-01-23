@@ -9,7 +9,7 @@ This repository contains all public neurographs that were scanned or converted b
 ---
 # Stored scans
 ## Caenorhabditis Elegans (caenorhabditis_elegans)
-![flat neurograph](https://img.shields.io/badge/flat-neurograph-0077ff?style=for-the-badge) \
+![neurograph type flat](https://img.shields.io/badge/neurograph%20type-flat-0077ff?style=for-the-badge) \
 [ awaiting Peek render... ]
 ### Info
 C. Elegans is a free-living, transparent nematode worm.

@@ -9,7 +9,7 @@ This repository contains all public neurographs that were scanned or converted b
 ---
 # Stored scans
 ## Caenorhabditis Elegans (caenorhabditis_elegans)
-![flat neurograph](https://img.shields.io/badge/flat-neurograph-0077ff?style=for-the-badge)
+![flat neurograph](https://img.shields.io/badge/flat-neurograph-0077ff?style=for-the-badge) \
 [ awaiting Peek render... ]
 ### Info
 C. Elegans is a free-living, transparent nematode worm.
@@ -19,7 +19,7 @@ It's one of the first creatures to have it's brain fully mapped and simulated.
 Similarly, this is the first creature to have it's scan to be mapped with neurograph
   method and simulated in Vivarium.
 ### Stats
-`397` neurites
+`397` neurites \
 `3689` synapses
 ### Provided files
 - `worm.ng` - Flat Neurograph version 3: C. Elegans connectome.
